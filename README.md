@@ -4,3 +4,11 @@ Conway's Game of Life written in MMBasic for PicoCalc
 
 
 The Game of Life, also known as Conway's Game of Life or simply Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. It is Turing complete and can simulate a universal constructor or any other Turing machine.
+
+Commands:
+
+-ESC to exit the game      
+-R to reseed       
+-C to clear      
+-PAUSE to pause/resume the game      
+-CONST CELL = 10 Higher the number, bigger the cell, faster the game     
